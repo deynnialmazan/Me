@@ -14,9 +14,9 @@ and others.
 
 If you want to know more, feel free to contact me.
 
-Follow me:
+#### My official websites:
+<a href="https://www.linkedin.com/in/deynnialmazanmonroy/" target="_blank">LinkedIn</a> |
+<a href="https://twitter.com/deynnialmazan" target="_blank">Twitter</a> | 
+<a href="https://www.instagram.com/dey.amonroy/" target="_blank">Instagram</a> |
+<a href="https://www.facebook.com/drosby.a" target="_blank">Facebook</a> 
 
-<a href="https://twitter.com/deynnialmazan" target="_blank"><i class="fa-brands fa-twitter"></i></a> | 
-<a href="https://www.instagram.com/dey.amonroy/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-<a href="https://www.facebook.com/drosby.a" target="_blank"><i class="fa-brands fa-facebook"></i></a>
- LinkedIn: https://www.linkedin.com/in/deynnialmazanmonroy/ 
