@@ -21,7 +21,7 @@ I'm learning about HTML, CSS, JavaScript, Git, GitHub, C+, and others.
 #### Find me here:
 <a href="https://www.linkedin.com/in/deynnialmazanmonroy/" target="_blank">LinkedIn</a> |
 <a href="https://twitter.com/deynnialmazan" target="_blank">Twitter</a> | 
-<a href="https://www.instagram.com/dey.amonroy/" target="_blank">Instagram</a> |
+<a href="https://www.instagram.com/deynnialmazan/" target="_blank">Instagram</a> |
 <a href="https://www.facebook.com/drosby.a" target="_blank">Facebook</a>
 
 ##
