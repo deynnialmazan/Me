@@ -14,7 +14,7 @@ and others.
 
 If you want to know more, feel free to contact me.
 
-#### My official websites:
+#### My Social Media accounts:
 <a href="https://www.linkedin.com/in/deynnialmazanmonroy/" target="_blank">LinkedIn</a> |
 <a href="https://twitter.com/deynnialmazan" target="_blank">Twitter</a> | 
 <a href="https://www.instagram.com/dey.amonroy/" target="_blank">Instagram</a> |
