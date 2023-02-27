@@ -22,11 +22,17 @@ If you want to know more, feel free to contact me.
 <a href="https://www.linkedin.com/in/deynnialmazanmonroy/" target="_blank">LinkedIn</a> |
 <a href="https://twitter.com/deynnialmazan" target="_blank">Twitter</a> | 
 <a href="https://www.instagram.com/dey.amonroy/" target="_blank">Instagram</a> |
-<a href="https://www.facebook.com/drosby.a" target="_blank">Facebook</a> 
+<a href="https://www.facebook.com/drosby.a" target="_blank">Facebook</a>
+
+##
 
 ### My Skills
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=81ffff)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=81ffff)
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=81ffff)
 
+##
+
 ### My Stats
+
+![Deynni's GitHub stats](https://github-readme-stats.vercel.app/api?username=deynnialmazan&show_icons=true&theme=transparent)
