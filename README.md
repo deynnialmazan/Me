@@ -16,7 +16,7 @@ Key Performance Indicators (KPIs).
 Currently, I'm a student of Software Developer Program at MITT, a big change but an amazing new goal. 
 I'm learning about HTML, CSS, JavaScript, Git, GitHub, C+, and others.
 
-If you want to know more, feel free to contact me.
+💬 If you want to know more, feel free to contact me.
 
 #### Find me here:
 <a href="https://www.linkedin.com/in/deynnialmazanmonroy/" target="_blank">LinkedIn</a> |
@@ -35,4 +35,6 @@ If you want to know more, feel free to contact me.
 
 ### My Stats
 
-![Deynni's GitHub stats](https://github-readme-stats.vercel.app/api?username=deynnialmazan&show_icons=true&theme=transparent)
+![Deynni's GitHub stats](https://github-readme-stats.vercel.app/api?username=deynnialmazan&show_icons=true&theme=react)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deynnialmazan&langs_count=5&theme=react)]()
+
