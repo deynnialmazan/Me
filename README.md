@@ -19,10 +19,21 @@ I'm learning about HTML, CSS, JavaScript, Git, GitHub, C+, and others.
 💬 If you want to know more, feel free to contact me.
 
 #### Find me here:
-<a href="https://www.linkedin.com/in/deynnialmazanmonroy/" target="_blank">LinkedIn</a> |
-<a href="https://twitter.com/deynnialmazan" target="_blank">Twitter</a> | 
-<a href="https://www.instagram.com/deynnialmazan/" target="_blank">Instagram</a> |
-<a href="https://www.facebook.com/drosby.a" target="_blank">Facebook</a>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/deynnialmazanmonroy/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/drosby.a">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://www.instagram.com/deynnialmazan/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/deynnialmazan">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ##
 
@@ -35,6 +46,5 @@ I'm learning about HTML, CSS, JavaScript, Git, GitHub, C+, and others.
 
 ### My Stats
 
-![Deynni's GitHub stats](https://github-readme-stats.vercel.app/api?username=deynnialmazan&show_icons=true&theme=react)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deynnialmazan&langs_count=5&theme=react)]()
-
+![Deynni Almazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deynnialmazan&show_icons=true&theme=react)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deynnialmazan&hide=javascript,css,scss,html&theme=react)
