@@ -47,4 +47,4 @@ I'm learning about HTML, CSS, JavaScript, Git, GitHub, C+, and others.
 ### My Stats
 
 ![Deynni Almazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deynnialmazan&show_icons=true&theme=react)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deynnialmazan&hide=javascript,css,scss,html&theme=react)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deynnialmazan&layout=compact&theme=react)
