@@ -13,7 +13,7 @@ corrective and preventive actions (CAPA process), and control of Key Performance
 
 I am passionate about technology,  a fast learner, and a problem-solver. I have always wanted to be
 part of the tech world. Currently, I am student of Software Development Program at MITT in Winnipeg.
-I'm learning about HTML, CSS, JavaScript, Git, GitHub, C+, MySQL, and others. Implementing my skills 
+I'm learning about HTML, CSS, JavaScript, Git, GitHub, C#, MySQL, and others. Implementing my skills 
 learned so far for building useful and well-designed webpages and other interesting apps is really 
 satisfactory. 
 
