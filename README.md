@@ -5,20 +5,23 @@
 My name is Deynni Almazan, I'm from Honduras but now 
 living in Winnipeg, Canada. 
 
-I am an Industrial Engineer & Logistical Management Engineer with high experience in 
-Quality Systems Management. My work experience includes working with different teams across 
-the company as the leader of the implementation and control of the Quality System. 
-My main roles include project management, process improvement, developing internal/external audits, 
-corrective and preventive actions (CAPA process), and control of Key Performance Indicators (KPIs). 
-
 I am passionate about technology,  a fast learner, and a problem-solver. I have always wanted to be
 part of the tech world. Currently, I am student of Software Development Program at MITT in Winnipeg.
 I'm learning about HTML, CSS, JavaScript, Git, GitHub, C#, MySQL, and others. Implementing my skills 
 learned so far for building useful and well-designed webpages and other interesting apps is really 
 satisfactory. 
 
+As a previos background, I am an Industrial Engineer & Logistical Management Engineer with high experience 
+in Quality Systems Management. My work experience includes working with different teams across 
+the company as the leader of the implementation and control of the Quality System. 
+My main roles include project management, process improvement, developing internal/external audits, 
+corrective and preventive actions (CAPA process), and control of Key Performance Indicators (KPIs).
+
 I enjoy to keep constantly learning something new. My plan is to continue getting new tech knowledge 
-and updating my current skills for building new and challenging projects. 
+and updating my current skills for building new and challenging projects. Currently, I am almost finishing 
+my Software Development Program and I am looking for an internship or b opportunity.
+
+I am so excited to showcase my skills learned so far!
 
 💬 If you want to know more, feel free to contact me.
 
