@@ -7,19 +7,16 @@ living in Winnipeg, Canada.
 
 I am passionate about technology,  a fast learner, and a problem-solver. I have always wanted to be
 part of the tech world. Currently, I am student of Software Development Program at MITT in Winnipeg.
-I'm learning about HTML, CSS, JavaScript, Git, GitHub, C#, MySQL, and others. Implementing my skills 
-learned so far for building useful and well-designed webpages and other interesting apps is really 
-satisfactory. 
+I enjoy building useful and well-designed webpages and other interesting apps. 
 
 As a previos background, I am an Industrial Engineer & Logistical Management Engineer with high experience 
 in Quality Systems Management. My work experience includes working with different teams across 
-the company as the leader of the implementation and control of the Quality System. 
-My main roles include project management, process improvement, developing internal/external audits, 
-corrective and preventive actions (CAPA process), and control of Key Performance Indicators (KPIs).
+the company as the leader of the implementation and control of the Quality System.  My main roles include 
+project management and process improvement.
 
 I enjoy to keep constantly learning something new. My plan is to continue getting new tech knowledge 
-and updating my current skills for building new and challenging projects. Currently, I am almost finishing 
-my Software Development Program and I am looking for an internship or b opportunity.
+and updating my current skills for building new and challenging projects. Currently, I am looking for 
+an internship or job opportunity as a FrontEnd or BackEnd Developer.
 
 I am so excited to showcase my skills learned so far!
 
@@ -45,9 +42,35 @@ I am so excited to showcase my skills learned so far!
 ##
 
 ### My Skills
+* HTML5
+* CSS
+* JavaScript
+* ReactJS
+* C#
+* MySQL
+* Microsoft SQL Server
+* Azure
+* Postman
+* Git, GitHub
+* Windows
+* MS Office
+* Quality Management / Total Quality Management (TQM)
+* Project Management
+* ISO 9001:2008 Quality Standards
+* Total Quality Management
+* Six Sigma
+* Supply Chain Management
+* Key Performance Indicators
+
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=81ffff)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=81ffff)
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=81ffff)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 ##
 
