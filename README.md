@@ -15,8 +15,7 @@ the company as the leader of the implementation and control of the Quality Syste
 project management and process improvement.
 
 I enjoy to keep constantly learning something new. My plan is to continue getting new tech knowledge 
-and updating my current skills for building new and challenging projects. Currently, I am looking for 
-an internship or job opportunity as a FrontEnd or BackEnd Developer.
+and updating my current skills for building new and challenging projects.
 
 I am so excited to showcase my skills learned so far!
 
